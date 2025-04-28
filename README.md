@@ -4,7 +4,7 @@
 
 This project aims to predict median house values in California using socio-economic and geographic features from the **California Housing dataset** (U.S. Census Bureau). The dataset includes attributes like median income, average number of rooms, population, and house age, aggregated at the block group level.
 
-The challenge is to accurately model the relationship between these features and housing prices, which may involve both linear and nonlinear interactions.
+The challenge is to accurately model the relationship between these features and housing prices, which may involve both **linear and nonlinear interactions**.
 
 ## Problem Statement
 
